@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\marce\Desktop\EstudosOFC\APICOMANGULAR\ApiAngular\Back\BackCursoAngularAsp\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache

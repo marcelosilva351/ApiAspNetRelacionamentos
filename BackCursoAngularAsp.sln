@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{D57F2068-F0D1-41FF-88AC-8139B6E52FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{367C2D3A-D39F-42D0-8A6F-4486B4B00DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{1652859B-84B7-4DCB-B9BA-3352325B0E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57F2068-F0D1-41FF-88AC-8139B6E52FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57F2068-F0D1-41FF-88AC-8139B6E52FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57F2068-F0D1-41FF-88AC-8139B6E52FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57F2068-F0D1-41FF-88AC-8139B6E52FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367C2D3A-D39F-42D0-8A6F-4486B4B00DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367C2D3A-D39F-42D0-8A6F-4486B4B00DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367C2D3A-D39F-42D0-8A6F-4486B4B00DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367C2D3A-D39F-42D0-8A6F-4486B4B00DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1652859B-84B7-4DCB-B9BA-3352325B0E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1652859B-84B7-4DCB-B9BA-3352325B0E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1652859B-84B7-4DCB-B9BA-3352325B0E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1652859B-84B7-4DCB-B9BA-3352325B0E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1D363C-11B1-4DBB-94D7-1EF2B846C6BB}
+	EndGlobalSection
+EndGlobal
